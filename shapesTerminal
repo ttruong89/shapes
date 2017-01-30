@@ -1,22 +1,36 @@
-Last login: Sun Jan 29 19:00:15 on ttys000
-Tonys-MacBook-Pro:~ tonytruong$ cd Desktop/
-Tonys-MacBook-Pro:Desktop tonytruong$ cd UT
--bash: cd: UT: No such file or directory
-Tonys-MacBook-Pro:Desktop tonytruong$ cd UT
--bash: cd: UT: No such file or directory
-Tonys-MacBook-Pro:Desktop tonytruong$ cd UT-Bootcamp/
-Tonys-MacBook-Pro:UT-Bootcamp tonytruong$ cd Week11
-Tonys-MacBook-Pro:Week11 tonytruong$ cd shapes
-Tonys-MacBook-Pro:shapes tonytruong$ node Shapes.js
-The Triangle has a total length of 7
-The Square has a total length of 4
-The Pentagon has a total length of 14
-The shape is the original constructor shape
-A Triangle is a Triangle.
-A Triangle is a Square.
-A Triangle is a Pentagon.
-This is the constructor shape.
-Tonys-MacBook-Pro:shapes tonytruong$ 
+Last login: Sun Jan 29 22:10:54 on ttys000
+Tonys-MBP:~ tonytruong$ cd Desktop/
+Tonys-MBP:Desktop tonytruong$ cd UT-Bootcamp/
+Tonys-MBP:UT-Bootcamp tonytruong$ cd Week11
+Tonys-MBP:Week11 tonytruong$ cd shapes
+Tonys-MBP:shapes tonytruong$ node Shapes.js
+--------------------------------------
+This shape is a Triangle
+The Triangle has a total length of 6
+Triangle instance of Triangle?
+true
+Triangle instance of Shape?
+true
+--------------------------------------
+This shape is a Square
+The Square has a total length of 16
+Square instance of Square?
+true
+Square instance of Shape?
+true
+--------------------------------------
+This shape is a Pentagon
+The Pentagon has a total length of 15
+Pentagon instance of Pentagon?
+true
+Pentagon instance of Shape?
+true
+--------------------------------------
+This shape is a Constructor Shape
+Shape instance of Shape?
+true
+--------------------------------------
+Tonys-MBP:shapes tonytruong$ 
 
 
 
