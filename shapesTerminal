@@ -1,0 +1,24 @@
+Last login: Sun Jan 29 19:00:15 on ttys000
+Tonys-MacBook-Pro:~ tonytruong$ cd Desktop/
+Tonys-MacBook-Pro:Desktop tonytruong$ cd UT
+-bash: cd: UT: No such file or directory
+Tonys-MacBook-Pro:Desktop tonytruong$ cd UT
+-bash: cd: UT: No such file or directory
+Tonys-MacBook-Pro:Desktop tonytruong$ cd UT-Bootcamp/
+Tonys-MacBook-Pro:UT-Bootcamp tonytruong$ cd Week11
+Tonys-MacBook-Pro:Week11 tonytruong$ cd shapes
+Tonys-MacBook-Pro:shapes tonytruong$ node Shapes.js
+The Triangle has a total length of 7
+The Square has a total length of 4
+The Pentagon has a total length of 14
+The shape is the original constructor shape
+A Triangle is a Triangle.
+A Triangle is a Square.
+A Triangle is a Pentagon.
+This is the constructor shape.
+Tonys-MacBook-Pro:shapes tonytruong$ 
+
+
+
+
+
